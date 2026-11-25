@@ -2,7 +2,7 @@
 
 Замените `[[...]]` своими ссылками. Снимки загрузите в `screenshots/`.
 
-Репозиторий: [https://github.com/mehachmen/project-management-start.git]
+Репозиторий: [https://github.com/mehachmen/project-management-start]
 
 Проект: [https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/]
 
