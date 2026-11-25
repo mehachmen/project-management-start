@@ -4,27 +4,15 @@
 Скриншоты загрузите в `screenshots/` с указанными ниже именами.
 Ссылки на снимки уже готовы — не удаляйте их.
 
-<<<<<<< HEAD
 Репозиторий: [https://github.com/mehachmen/project-management-start]
 
-Проект: [https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/]
+Проект: [https://b24-vgdu60.bitrix24.ru/workgroups/]
 
 Задача 1: [https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/1/]
 
 Задача 2: [https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/3/]
 
 Задача 3: [https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/5/]
-=======
-Репозиторий: https://github.com/mehachmen/project-management-start
-
-Проект: https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/
-
-Задача 1: https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/1/
-
-Задача 2: https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/3/
-
-Задача 3: https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/5/
->>>>>>> 135bbd8d9ed89a8aaa6bbc9beb56040874212c72
 
 ## Скриншоты
 
