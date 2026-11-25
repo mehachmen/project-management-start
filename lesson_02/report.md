@@ -8,11 +8,12 @@
 
 Проект: [https://b24-vgdu60.bitrix24.ru/workgroups/]
 
-Задача 1: [https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/1/]
+Задача 1: ['https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/1/]
 
-Задача 2: [https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/3/]
+Задача 2: ['https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/3/]
 
 Задача 3: [https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/5/]
+
 
 ## Скриншоты
 
