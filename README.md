@@ -6,6 +6,9 @@
 | --- | --- | --- |
 | Проект, задача и результат | [lesson_02](lesson_02/README.md) | [texts.md](lesson_02/texts.md) |
 | Уточняем требования | [lesson_03](lesson_03/README.md) | [texts.md](lesson_03/texts.md) |
+| От требований к плану работ | [lesson_04](lesson_04/README.md) | [texts.md](lesson_04/texts.md) |
+| CRM и запуск работы | [lesson_05](lesson_05/README.md) | [texts.md](lesson_05/texts.md) |
+| Рабочее пространство выполнения проекта | [lesson_06](lesson_06/README.md) | [texts.md](lesson_06/texts.md) |
 
 Номера папок совпадают с номерами тем курса. Обе практики выполняются в одном проекте «СЕВЕР».
 
