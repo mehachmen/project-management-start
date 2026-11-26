@@ -2,7 +2,7 @@
 
 Репозиторий: https://github.com/mehachmen/project-management-start
 
-Проект: https://b24-vgdu60.bitrix24.ru/workgroups/
+Проект: https://b24-vgdu60.bitrix24.ru/workgroups/group/1
 
 Задача: https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/5/
 
@@ -16,4 +16,3 @@
 - [Описание задачи — версия 2](screenshots/06-requirements-v2.png)
 - [Проверки P1–P5 — версия 2](screenshots/07-checks-v2.png)
 - [Итог после самопроверки](screenshots/08-summary.png)
-

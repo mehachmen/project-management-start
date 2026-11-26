@@ -6,7 +6,7 @@
 
 Репозиторий: https://github.com/mehachmen/project-management-start
 
-Проект: https://b24-vgdu60.bitrix24.ru/workgroups/
+Проект: https://b24-vgdu60.bitrix24.ru/workgroups/group/1
 
 Задача 1: https://b24-vgdu60.bitrix24.ru/workgroups/group/1/tasks/task/view/1/
 
